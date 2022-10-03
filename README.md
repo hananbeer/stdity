@@ -1,0 +1,2 @@
+# stdity
+solidity stdlib

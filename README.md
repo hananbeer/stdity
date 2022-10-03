@@ -54,7 +54,7 @@ Solidity stdlib is a collection of core tools such as data structures, algorithm
 
 ## Red-Black Tree
 
-(Red-Black Binary-Tree)[https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary] by bokkypoobah
+[Red-Black Binary-Tree](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary) by bokkypoobah
 
 [Red-Black Binary-Tree](https://github.com/morpho-dao/morpho-data-structures/blob/main/contracts/RedBlackBinaryTree.sol) by [morpho-dao](#morpho-data-structures)
 

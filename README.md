@@ -83,3 +83,9 @@ includes: linked list, stack
 https://github.com/morpho-dao/morpho-data-structures
 
 includes: doubly linked list, heap, red black binary tree
+
+# Algorithms
+
+[Various Algorithms](https://github.com/TheAlgorithms/Solidity) by TheAlgorithms
+
+includes: bubble sort, selection sort, binary search, various math utils

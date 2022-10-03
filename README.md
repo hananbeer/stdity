@@ -29,7 +29,7 @@ Solidity stdlib is a collection of core tools such as data structures, algorithm
 
 [Doubly Linked List](https://github.com/morpho-dao/morpho-data-structures/blob/main/contracts/DoubleLinkedList.sol) by [morpho-dao](#morpho-data-structures)
 
-[(tutorial) Linked List)[https://medium.com/coinmonks/linked-lists-in-solidity-cfd967af389b] by Austin Griffith
+[(tutorial) Linked List](https://medium.com/coinmonks/linked-lists-in-solidity-cfd967af389b) by Austin Griffith
 
 ## Queue
 

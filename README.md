@@ -6,8 +6,8 @@ Solidity stdlib is a collection of core tools such as data structures, algorithm
 
 ## Complexities table
 
-(source: devopedia.org; thanks morpho-dao for the reference)
 ![complexities](https://devopedia.org/images/article/17/7752.1513922040.jpg)
+(source: devopedia.org; thanks morpho-dao for the reference)
 
 ## JSON
 
@@ -20,6 +20,8 @@ Solidity stdlib is a collection of core tools such as data structures, algorithm
 ## Linked List
 
 [Linked List](https://github.com/brockelmore/memmove/blob/master/src/LinkedList.sol) by [brockelmore/memmove](#memmove)
+
+[Linked List](https://github.com/aunyks/vitruvius/blob/master/contracts/LinkedList.sol) by vitruvius
 
 [Linked List Stack](https://github.com/d3or/ll-stack-solidity) by d3or
 
@@ -36,6 +38,8 @@ Solidity stdlib is a collection of core tools such as data structures, algorithm
 ## Stack
 
 [Linked List Stack](https://github.com/d3or/ll-stack-solidity) by d3or
+
+[Stack](https://github.com/aunyks/vitruvius/blob/master/contracts/Stack.sol) by vitruvius
 
 ## Heap
 
@@ -58,8 +62,7 @@ Solidity stdlib is a collection of core tools such as data structures, algorithm
 
 ## K-Array Tree
 
-https://github.com/volt-protocol/volt-protocol-core/blob/develop/contracts/test/integration/utils/KArrayTree.sol by volt-protocol
-
+[K-Array Tree](https://github.com/volt-protocol/volt-protocol-core/blob/develop/contracts/test/integration/utils/KArrayTree.sol) by volt-protocol
 
 # Libraries
 
@@ -68,6 +71,12 @@ https://github.com/volt-protocol/volt-protocol-core/blob/develop/contracts/test/
 https://github.com/brockelmore/memmove
 
 includes: array, linked list, doubly linked list, mapping, json
+
+## vitruvius
+
+https://github.com/aunyks/vitruvius
+
+includes: linked list, stack
 
 ## morpho-data-structures
 

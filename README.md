@@ -52,15 +52,15 @@ Solidity stdlib is a collection of core tools such as data structures, algorithm
 
 [Mapping](https://github.com/brockelmore/memmove/blob/master/src/Mapping.sol) by [brockelmore/memmove](#memmove)
 
-## Red-Black Tree
+## Trees
+
+[Binary Tree](https://github.com/d3or/sol-trees/blob/master/src/BinaryTree.sol) by d3or
 
 [Red-Black Binary-Tree](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary) by bokkypoobah
 
 [Red-Black Binary-Tree](https://github.com/morpho-dao/morpho-data-structures/blob/main/contracts/RedBlackBinaryTree.sol) by [morpho-dao](#morpho-data-structures)
 
 [Optimized Red-Black Tree](https://github.com/morpho-dao/morpho-data-structures/blob/main/contracts/RedBlackBinaryTreeOptimized.sol) by [morpho-dao](#morpho-data-structures)
-
-## K-Array Tree
 
 [K-Array Tree](https://github.com/volt-protocol/volt-protocol-core/blob/develop/contracts/test/integration/utils/KArrayTree.sol) by volt-protocol
 

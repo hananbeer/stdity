@@ -84,6 +84,10 @@ https://github.com/morpho-dao/morpho-data-structures
 
 includes: doubly linked list, heap, red black binary tree
 
+## BigNumbers
+
+https://github.com/firoorg/solidity-BigNumber
+
 # Algorithms
 
 [Various Algorithms](https://github.com/TheAlgorithms/Solidity) by TheAlgorithms

@@ -1,10 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
-contract Stack {
+contract uuintStack {
     
     error IndexOutOfBounds();
-    
     uint256[] internal stack;
 
     //Pushes a new item on to the stack.
@@ -27,10 +26,7 @@ contract Stack {
                 mstore(0x00, 0x4e23d035)
                 revert(0x1c, 0x04)
             }
-            size := sub(size, 1)
-            sstore(stack.slot, size)
-            mstore(0x00, stack.slot)
-            sstore(add(keccak256(0x00, 0x20), size), 0)
+            sstore(stack.slot, sub(size, 1))
         }
     }
 

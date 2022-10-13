@@ -2,6 +2,10 @@
 
 Solidity stdlib is a collection of core tools such as data structures, algorithms, helper functions, etc. 
 
+## Security
+
+Each project is linked as-is, at no particular order. listings are not to be interperted as endorsments, do your own research and use on your own discretion.
+
 # Data Structures
 
 ## Complexities table

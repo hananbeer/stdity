@@ -64,6 +64,8 @@ Each project is linked as-is, at no particular order. listings are not to be int
 
 [Red-Black Binary-Tree](https://github.com/morpho-dao/morpho-data-structures/blob/main/contracts/RedBlackBinaryTree.sol) by [morpho-dao](#morpho-data-structures)
 
+[Red-Black Binary-Tree](https://github.com/0xPolygon/account-binary-search-tree) by Polygon
+
 [Optimized Red-Black Tree](https://github.com/morpho-dao/morpho-data-structures/blob/main/contracts/RedBlackBinaryTreeOptimized.sol) by [morpho-dao](#morpho-data-structures)
 
 [K-Array Tree](https://github.com/volt-protocol/volt-protocol-core/blob/develop/contracts/test/integration/utils/KArrayTree.sol) by volt-protocol
